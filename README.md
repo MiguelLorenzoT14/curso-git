@@ -4,4 +4,4 @@ Curso git mastermid
 
 aprendiendo desde o
 
-mastermid el mejor 
+mastermid el mejor el mejor
